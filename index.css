@@ -1,0 +1,46 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	font-family: cursive;
+}
+.navmenu{
+	font-size: 20px;
+	color: royalblue;
+	font-weight: bolder;
+}
+.mdiv{
+	height:200;
+	border: 1px;
+}
+.logo{
+	font-size: 35px;
+	font-family: Elephant;
+	font-variant: small-caps;
+	color: orangered;
+	}
+	.section-menu{
+		position: relative;
+		top: 50px;
+	}
+	.section-menu{
+		position: relative;
+		top: 100px;
+
+	}
+	.navigation-bar{
+		position: fixed;
+		top: 0px;
+		left: 0px;
+		z-index: 3;
+		width: 1300px;
+		height30px;
+	}
+	html{
+		scroll-behavior: smooth;
+	}
+	#home{
+		height: 500px;
+		width: 400px;
+		background-image: url('https://cdn.dribbble.com/users/605032/screenshots/3196252/openwork-1-d.gif');
+	}
+
